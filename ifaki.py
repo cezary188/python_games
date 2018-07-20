@@ -1,4 +1,4 @@
-lista3 = [30,40,50,60,77,90,100]
+lista3 = [30,40,50,60,33,77,90,100]
 
 
 for warunek in lista3:
@@ -10,7 +10,8 @@ for warunek in lista3:
 
 	else:
 
-		lista3.append(33)
+	
+		print ("O a jednak jest")
 
 
 
